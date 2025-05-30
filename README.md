@@ -2,7 +2,7 @@
 
 ## Announcement
 
-Added all solution for coding tasks (bios gets, shell, threading, producer consumer).
+Added all solution for coding tasks (bios gets, shell, threading, producer ).
 
 [Textbook and solution manual](https://www.os-book.com/OS10/)
 
